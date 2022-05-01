@@ -91,7 +91,7 @@
     "@typescript-eslint/eslint-plugin": "^5.8.1",
     "@typescript-eslint/parser": "^5.8.1",
     "autobind-decorator": "^2.4.0",
-    "axios": "^0.24.0",
+    "axios": "^0.27.2",
     "chai": "^4.3.4",
     "chai-as-promised": "^7.1.1",
     "eslint": "^8.6.0",
